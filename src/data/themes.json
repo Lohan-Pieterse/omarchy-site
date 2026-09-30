@@ -330,11 +330,6 @@
   "name": "Japan Night"
  },
  {
-  "repo": "https://github.com/Lohan-Pieterse/omarchy-konbini-theme",
-  "image": "/assets/themes/konbini.webp",
-  "name": "Konbini"
- },
- {
   "repo": "https://github.com/thisisgm/omarchy-lamplight-theme",
   "image": "/assets/themes/lamplight.webp",
   "name": "Lamplight"
